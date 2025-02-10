@@ -1,0 +1,25 @@
+如果你不是用中文客户端的话，请找到
+_crew_dialogs_ground_zh.assets
+和
+_crew_dialogs_ground_zh
+将你的“zh”改为你对应的客户端语言
+
+例如:   
+ zh:中文   
+en_us:英语(美)  
+en:英语(英)
+
+2.0为保留无线电声音，2.1去除了无线电声音
+
+If you're not using the Chinese client, please locate
+_crew_dialogs_ground_zh.assets
+and
+_crew_dialogs_ground_zh
+
+Replace the "zh" in your files with the language code corresponding to your client's language.
+For example:
+zh: Chinese
+en_us: American English
+en: British English
+
+Version 2.0 retains the radio sound, while version 2.1 removes the radio sound.
